@@ -9,7 +9,7 @@ Site de um clube de xadrez.
 
 ## Como visualizar
 
-Abrir o arquivo `index.html` no navegador. É necessário estar conectado à internet para carregar as fotografias externas.
+Abrir o arquivo `index.html` no navegador. É necessário estar conectado à internet para carregar as fotografias externas, ou abrir o link https://quij0.github.io/Site-clube-de-xadrez/
 
 ## Validação HTML
 
