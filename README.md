@@ -9,10 +9,10 @@ Site de um clube de xadrez.
 
 ## Como visualizar
 
-Abra o arquivo `index.html` no navegador. É necessário estar conectado à internet para carregar as fotografias externas.
+Abrir o arquivo `index.html` no navegador. É necessário estar conectado à internet para carregar as fotografias externas.
 
 ## Validação HTML
 
-1. `https://validator.w3.org/nu/`. Zero erros no validator.w3.org/nu (print no README)
-2. Uso de time, address e strong/em onde fizer sentido; link “pular para o conteúdo”
+<img width="1885" height="978" alt="image" src="https://github.com/user-attachments/assets/b7c8cdc9-e37f-4c3e-83b7-178b678b5fee" />
+
 
